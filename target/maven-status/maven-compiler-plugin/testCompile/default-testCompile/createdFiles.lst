@@ -1,0 +1,6 @@
+com\perficient\restassuredtest\runner\TestNGgRunner.class
+com\perficient\restassuredtest\stepdefinitions\Hooks.class
+com\perficient\restassuredtest\stepdefinitions\MyStepdefs.class
+com\perficient\restassuredtest\constants\PathParameter.class
+com\perficient\restassuredtest\AbstractServiceTest.class
+com\perficient\restassuredtest\resources\DataBuilder.class
